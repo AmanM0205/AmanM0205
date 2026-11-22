@@ -14,9 +14,8 @@ I'm a **Data Scientist and Business Analyst** with an MS in Data Science from Ar
 
 - 🎓 **MS in Data Science, Analytics & Engineering** @ Arizona State University (GPA: 3.73/4.0) · Graduated May 2026
 - 🎓 **B.Tech in Information Technology** @ Manipal University Jaipur (CGPA: 8.53/10)
-- 💼 **Business Analyst Intern** @ Integrated Travel · building a cost-benefit model for a proposed Calgary–Edmonton high-speed rail corridor
+- 💼 **Business Analyst** @ Integrated Travel · building a cost-benefit model for a proposed Calgary–Edmonton high-speed rail corridor
 - 🏢 Previously @ **Angler AI** · **Tata Motors** · **Tata Technologies**
-- 📈 Cut AWS Athena query latency **35%** · lifted loan conversion **~20%** · shipped pricing forecasts with an **83%** MAE/RMSE improvement over baseline
 - 🌎 Based in **Tempe, Arizona, USA**
 - 🎯 Open to **Full-Time Roles** in Data Science, Data Analytics, Data Engineering & Business Analysis
 
